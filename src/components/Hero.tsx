@@ -6,7 +6,7 @@ interface HeroProps {
 
 export const Hero: React.FC<HeroProps> = ({ profileImage }) => {
   const roles = [
-    'Backend Developer',
+    'Software Developer',
     'CS Student at HIT',
     'Problem Solver',
   ]

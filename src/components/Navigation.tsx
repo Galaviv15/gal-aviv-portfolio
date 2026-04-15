@@ -36,7 +36,7 @@ export const Navigation: React.FC<NavigationProps> = ({ profileImage }) => {
             )}
             <div className="hidden sm:block">
               <h1 className="text-white font-bold text-lg">Gal Aviv</h1>
-              <p className="text-blue-400 text-sm">Backend Developer</p>
+              <p className="text-blue-400 text-sm">Software Developer</p>
             </div>
           </a>
 
