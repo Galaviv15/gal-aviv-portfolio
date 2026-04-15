@@ -61,7 +61,7 @@ export const Navigation: React.FC<NavigationProps> = ({ profileImage }) => {
               Contact
             </a>
             <a
-              href="https://drive.google.com/file/d/10iPulVSuvhLfzNDrc8Y4M4UMxmVYReAe/view?usp=sharing"
+              href="https://drive.google.com/file/d/1319qtCVIdqYaVXnlV1oBWXJK79hnqL3p/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition duration-300 font-medium"
@@ -118,7 +118,7 @@ export const Navigation: React.FC<NavigationProps> = ({ profileImage }) => {
               Contact
             </a>
             <a
-              href="https://drive.google.com/file/d/10iPulVSuvhLfzNDrc8Y4M4UMxmVYReAe/view?usp=sharing"
+              href="https://drive.google.com/file/d/1319qtCVIdqYaVXnlV1oBWXJK79hnqL3p/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               onClick={closeMenu}
