@@ -48,6 +48,15 @@ const PROJECTS: Project[] = [
     websiteUrl: 'https://cost-manager-fed.netlify.app/',
     image: '/images/cost-manager.png',
   },
+  {
+    id: 5,
+    title: 'Cybersecurity Lab: Vulnerable vs. Secure Full-Stack App',
+    description:
+      'A management system designed to demonstrate real-world web vulnerabilities and their mitigations. The application features a dual-mode architecture: Vulnerable Mode and Secure Mode.',
+    technologies: ['Node.js', 'Express.js', 'MySQL', 'EJS', 'Crypto API'],
+    githubUrl: 'https://github.com/Galaviv15/Communication_LTD_Project',
+    image: '/images/communication-ltd-project-img.jpg',
+  },
 ]
 
 export const Projects: React.FC = () => {
